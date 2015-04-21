@@ -1,2 +1,0 @@
-wp-list-pages-shortcode
-=======================
